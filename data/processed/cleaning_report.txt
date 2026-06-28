@@ -1,0 +1,66 @@
+
+========================================
+MISSILE DATA CLEANING REPORT
+========================================
+File Processed           : missile_data.csv
+
+Total Missiles           : 264
+
+Origin Countries         : 23
+Possession Countries     : 14
+
+Missile Classes          : 76
+Missile Types            : 9
+
+Minimum Range            : 0 km
+Maximum Range            : 18000 km
+
+Year Introduced          : 1953 - 2025
+
+Range Category Breakdown
+------------------------
+Range_Category
+Short Range               112
+Medium Range               66
+Intermediate Range         49
+Intercontinental Range     23
+Long Range                 14
+
+Operational Status Breakdown
+----------------------------
+Operational_Status
+Active                 217
+Obsolete                30
+Retired                  7
+In development           5
+Operational Limited      2
+Cancelled                1
+Being replaced           1
+Phased out               1
+
+Missing Values
+--------------
+Missile_ID                 0
+Missile_Name               0
+Alternate_Name             0
+Country_of_Origin          0
+Country_of_Possession      0
+Missile_Class              0
+Missile_Type               0
+Length_m                  43
+Launch_Weight_kg          71
+Warhead_Type               0
+Range_min_km               0
+Range_max_km               0
+Year_Introduced            0
+Operational_Status         0
+Launch_Basing              0
+Diameter_m                51
+Payload_kg               127
+Propulsion_Type            0
+Notes                      0
+Unnamed: 19              247
+Range_Category             0
+Decade                     0
+
+========================================
